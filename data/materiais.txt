@@ -1,0 +1,35 @@
+Para incluir um novo material basta seguir o padrao apresentado na lista abaixo, o programa retira os dados quando inicializado.
+
+material = "Madeira";
+condutividade = "0.13";
+R = "200";
+G = "100";
+B = "0";
+
+
+material = "Ferro";
+condutividade = "80.2";
+R = "100";
+G = "100";
+B = "100";
+
+
+material = "Aluminio";
+condutividade = "237";
+R = "200";
+G = "200";
+B = "200";
+
+
+material = "Isopor";
+condutividade = "0.03";
+R = "250";
+G = "250";
+B = "250";
+
+
+material = "Cobre";
+condutividade = "401";
+R = "250";
+G = "50";
+B = "50";

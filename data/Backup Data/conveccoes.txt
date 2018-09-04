@@ -1,0 +1,12 @@
+Para incluir um novo tipo de conveccao basta seguir o padrão apresentado na lista abaixo, o programa retira os dados quando inicializado.
+
+tipo = "Ambiente-Parado";
+coeficiente de filme = "5"; 
+
+tipo = "Ambiente-Ventilado";
+coeficiente de filme = "10"; 
+
+
+
+
+
